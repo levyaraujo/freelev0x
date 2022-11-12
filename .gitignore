@@ -133,3 +133,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 >>>>>>> ecaee56d6b3d7f3d6b0085ee165bf189f8a24dc0
+.tool-versions
